@@ -1,2 +1,2 @@
-# aocgo
+# AOCGO 
 AOCGO Industrial Relay Modules
